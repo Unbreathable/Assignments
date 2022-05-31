@@ -15,13 +15,13 @@ set_location_assignment PIN_AD30 -to SW[7] <br>
 set_location_assignment PIN_AC29 -to SW[8] <br>
 set_location_assignment PIN_AA30 -to SW[9] <br>
 
-set_location_assignment PIN_AA24 -to LEDR[0]
-set_location_assignment PIN_AB23 -to LEDR[1]
-set_location_assignment PIN_AC23 -to LEDR[2]
-set_location_assignment PIN_AD24 -to LEDR[3]
-set_location_assignment PIN_AG25 -to LEDR[4]
-set_location_assignment PIN_AF25 -to LEDR[5]
-set_location_assignment PIN_AE24 -to LEDR[6]
-set_location_assignment PIN_AF24 -to LEDR[7]
-set_location_assignment PIN_AB22 -to LEDR[8]
-set_location_assignment PIN_AC22 -to LEDR[9]
+set_location_assignment PIN_AA24 -to LEDR[0] <br>
+set_location_assignment PIN_AB23 -to LEDR[1] <br>
+set_location_assignment PIN_AC23 -to LEDR[2] <br>
+set_location_assignment PIN_AD24 -to LEDR[3] <br>
+set_location_assignment PIN_AG25 -to LEDR[4] <br>
+set_location_assignment PIN_AF25 -to LEDR[5] <br>
+set_location_assignment PIN_AE24 -to LEDR[6] <br>
+set_location_assignment PIN_AF24 -to LEDR[7] <br>
+set_location_assignment PIN_AB22 -to LEDR[8] <br>
+set_location_assignment PIN_AC22 -to LEDR[9] <br>
